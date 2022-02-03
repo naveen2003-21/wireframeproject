@@ -12,8 +12,8 @@ Write your design steps here
 Write your design steps here
 
 ## OUTPUT:
-include your output screenshots 
-
-
+![github logo](w1.jpeg)
+![github logo](w2.jpeg)
+![github logo](w3.jpeg)
 ## Result:
 Thus a wire frame is designed for a given website.
